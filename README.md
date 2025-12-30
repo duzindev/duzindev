@@ -1,14 +1,16 @@
-```md
-# I'M 24 YEARS OLD
+<h1 align="center">I'M 24 YEARS OLD</h1>
 
-Beginner developer focused on learning by building.  
-Lua & JavaScript developer for FiveM / QBCore.
+<p align="center">
+  Beginner developer focused on learning by building.<br>
+  Lua & JavaScript developer for FiveM / QBCore.
+</p>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FiveM](https://img.shields.io/badge/FiveM-Scripting-black?style=for-the-badge)
-![QBCore](https://img.shields.io/badge/QBCore-Framework-blue?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FiveM-Scripting-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QBCore-Framework-blue?style=for-the-badge"/>
+</p>
 
 ## aboutMe.js
 
