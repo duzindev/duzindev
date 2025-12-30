@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Html-7C9D55?style=for-the-badge&logo=html&logoColor=red"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/FiveM-Developer-black?style=for-the-badge"/>
 </p>
