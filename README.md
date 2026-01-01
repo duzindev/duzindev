@@ -27,7 +27,7 @@ const duzindev = {
   ],
 
   technologies: {
-    languages: ["Lua", "JavaScript"],
+    languages: ["Lua", "JavaScript", "Html"],
     frameworks: ["QBCore", "QBox"],
     databases: ["MySQL", "SQLite", "MariaDB"]
   },
