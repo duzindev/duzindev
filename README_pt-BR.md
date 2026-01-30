@@ -9,7 +9,7 @@
 <h3 align="center">DESENVOLVEDOR DE SCRIPTS • FIVEM / QB-CORE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=609+Commits+no+PortlandRP;Quebrando+coisas+para+entender+como+funcionam;Construindo+experiências+imersivas+de+roleplay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=609+Commits;Quebrando+coisas+para+entender+como+funcionam;Construindo+experiências+imersivas+de+roleplay" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔒_Repositório_Privado-PortlandRP-critical?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=duzindev&color=red&style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/🔒_Repositório_Privado-PortlandRP-critical?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=duzindev&color=red&style=for-the-badge"/> -->
 </p>
 
 ---
@@ -33,7 +33,7 @@ const duzindev = {
   name: "Eduardo Bedim",
   age: 24,
   role: "Desenvolvedor de Scripts & Integrador de Recursos",
-  location: "Portland RP, Brasil 🇧🇷",
+  location: "Brasil 🇧🇷",
   
   experience: {
     commits: "609+ commits (Out 2025 - Jan 2026)",
@@ -71,7 +71,6 @@ Contribuindo para o desenvolvimento, integração e manutenção do servidor Por
 - ✅ **Garagem de Barcos & Sistemas de Tuning** para customização de veículos
 - ✅ **Empregos de Farming & Scripts de Carteira de Identidade** para imersão no roleplay
 - ✅ **Bebedouros & Máquinas de Café** sistemas interativos
-- ✅ **Armário Policial & Sistemas de Armas** para forças da lei
 
 ### **🔧 Correções & Otimização**
 - 🐛 Corrigidos bugs críticos em eventos de fome/atualização, dano de armas e erros no fxmanifest
@@ -95,7 +94,7 @@ Contribuindo para o desenvolvimento, integração e manutenção do servidor Por
 
 ### **🎯 Integração de Itens entre Sistemas**
 **`chore(*) Add Item on restaurant and farming job`**
-- Implementados itens funcionando em múltiplos empregos (compartilhamento de ingredientes entre farm e restaurante)
+- Implementados itens funcionando em múltiplos empregos
 - Garantida consistência do jogo e evitada duplicação de dados
 - 🔒 *Repositório Privado - PortlandRP*
 
@@ -118,7 +117,7 @@ Contribuindo para o desenvolvimento, integração e manutenção do servidor Por
 - 🔒 *Repositório Privado - PortlandRP*
 
 ### **🐛 Correções de Bugs Críticos**
-**`fix(dd-pizza): fix hunger update when consuming food items`**
+**`fix(dd-pizzathis): fix hunger update when consuming food items`**
 - Corrigidos bugs no sistema de fome/atualização no consumo de alimentos
 - Melhorada experiência do jogador e estabilidade do jogo
 - 🔒 *Repositório Privado - PortlandRP*
