@@ -33,7 +33,7 @@ const duzindev = {
   name: "Eduardo Bedim",
   age: 24,
   role: "Script Developer & Resource Integrator",
-  location: "Portland RP, Brazil 🇧🇷",
+  location: "Canada ca, Brazil 🇧🇷",
   
   experience: {
     commits: "609+ commits (Oct 2025 - Jan 2026)",
