@@ -33,7 +33,7 @@ const duzindev = {
   name: "Eduardo Bedim",
   age: 24,
   role: "Script Developer & Resource Integrator",
-  location: "Canada ca, Brazil 🇧🇷",
+  location: "Canada ca",
   
   experience: {
     commits: "609+ commits (Oct 2025 - Jan 2026)",
@@ -43,9 +43,8 @@ const duzindev = {
   
   technologies: {
     languages: ["Lua", "JavaScript", "HTML"],
-    frameworks: ["QBCore", "QBox", "ox_inventory"],
+    frameworks: ["QBCore", "QBox", "ox_core"],
     databases: ["MySQL", "SQLite", "MariaDB"],
-    tools: ["Git/GitHub", "FXManifest", "resources.cfg"]
   },
   
   mindset: "Breaking things to understand how they work"
